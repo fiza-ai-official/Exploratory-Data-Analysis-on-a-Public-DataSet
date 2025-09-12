@@ -1,2 +1,16 @@
 # Exploratory Data Analysis on a Public DataSet
-Exploratory Data Analysis (EDA) on Pakistan Weather Dataset  📌 Project Overview  This project demonstrates Exploratory Data Analysis (EDA) on a publicly available Pakistan Weather Dataset. The goal was to clean, analyze, and visualize the dataset to uncover patterns, correlations, and insights about weather conditions.  🗂 Dataset  Dataset: Pakistan Weather Data (public dataset)  Format: CSV  Includes columns related to temperature, humidity, rainfall, and other weather variables.   🛠 Steps Performed  1. Data Cleaning  Handled missing values  Replaced/imputed null values  Converted numerical columns into categorical columns where needed    2. Statistical Analysis  Summary statistics  Distribution analysis    3. Data Visualization  Plotted data distributions (histograms, bar plots)  Explored correlations (heatmaps, scatter plots)  Identified key patterns in weather trends     📊 Tools & Libraries  Python  Pandas – data manipulation  Matplotlib – visualizations  Seaborn – advanced plots and heatmaps  Scikit-learn – preprocessing
+Exploratory Data Analysis (EDA) on Pakistan Weather Dataset  
+📌 Project Overview  
+This project demonstrates Exploratory Data Analysis (EDA) on a publicly available Pakistan Weather Dataset. The goal was to clean, analyze, and visualize the dataset to uncover patterns, correlations, and insights about weather conditions.  
+🗂 Dataset  Dataset: Pakistan Weather Data (public dataset)  
+Format: CSV  Includes columns related to temperature, humidity, rainfall, and other weather variables.   
+🛠 Steps Performed  
+1. Data Cleaning Handled missing values  Replaced/imputed null values  Converted numerical columns into categorical columns where needed
+2. Statistical Analysis  Summary statistics  Distribution analysis
+3. Data Visualization  Plotted data distributions (histograms, bar plots)
+4. Explored correlations (heatmaps, scatter plots)  Identified key patterns in weather trends
+📊 Tools & Libraries
+Python  Pandas – data manipulation
+Matplotlib – visualizations
+Seaborn – advanced plots and heatmaps
+Scikit-learn – preprocessing
